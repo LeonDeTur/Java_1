@@ -1,3 +1,5 @@
+// Вычислить n! (произведение чисел от 1 до n)
+
 import java.util.Scanner;
 
 public class program_2 {

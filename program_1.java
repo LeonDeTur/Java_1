@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class program1 {
+public class program_1 {
     public static void main(String[] args) {
         Scanner iScanner = new Scanner(System.in);
         System.out.printf("Введите номер треуголного числа (целое число): ");
