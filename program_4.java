@@ -13,6 +13,7 @@ public class program_4 {
         System.out.printf("Введите операцию: ");
         String input = iScanner.next();
         iScanner.close();
+        
         char operator = input.charAt(0);
         int result = 0;
         if (operator == '+'){result = a + b;}
